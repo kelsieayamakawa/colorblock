@@ -1,0 +1,75 @@
+body {
+  padding-top: 70px;  /* Move body of page below navbar. */
+  vertical-align: middle;
+  height: auto;
+}
+
+img {
+  padding-top: 5px;
+}
+
+.img1 {
+  padding-top: 200px;
+  padding-left: 300px;
+}
+
+.navbar-inverse {
+  background-color: black;
+  height: 70px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+  padding-top: 25px;
+}
+
+.ulkit {
+  background-image: url('bg_teaser.svg');
+  height: 670px;
+  background-color: #2ba3d4;
+  color: white;
+  background-size: cover;
+  background-position: center;
+}
+
+.features {
+  height: 630px;
+  background-color: #3dc0f1;
+  color: white;
+}
+
+h2 {
+   font-size: 50px;
+   text-align: center;
+   padding-top: 50px;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   font-family: "bitter";
+ }
+
+h3 {
+  font-size: 50px;
+  text-align: center;
+  padding-top: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: "bitter";
+}
+
+.get_involved {
+  height: 500px;
+  background-color: white;
+  color: black;
+}
+
+.open_source {
+  height: 500px;
+  background-color: #3dc0f1;
+  color: white;
+}
+
+.footer {
+  height: 300px;
+  background-color: black;
+  color: white;
+}
