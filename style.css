@@ -32,6 +32,12 @@ img {
   background-position: center;
 }
 
+.ulkit > span img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
 .features {
   height: 630px;
   background-color: #3dc0f1;
